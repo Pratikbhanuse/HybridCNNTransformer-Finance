@@ -12,7 +12,7 @@ This repository contains a hybrid CNN + Transformer deep learning model to forec
 
 ## Dataset
 
-The model uses the [FI-2010 dataset](https://github.com/essex-financial-data/fi2010) (please download and place `fi2010.csv` in the repo root).
+The model uses the [FI-2010 dataset]([https://github.com/essex-financial-data/fi2010](https://raw.githubusercontent.com/seanahmad/fi2010/refs/heads/main/data/data.csv)) (please download and place `fi2010.csv` in the repo root).
 
 ## Installation
 
